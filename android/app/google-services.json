@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1082106755553",
+    "project_id": "newzia-2ecf8",
+    "storage_bucket": "newzia-2ecf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082106755553:android:6bcd40c337bbae8726baa0",
+        "android_client_info": {
+          "package_name": "com.example.newzia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9op8HoxBgf0z-4fGd9bL-9biZ2h5oVbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082106755553:android:137e1317ca6dec9426baa0",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9op8HoxBgf0z-4fGd9bL-9biZ2h5oVbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
