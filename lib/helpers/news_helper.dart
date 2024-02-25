@@ -8,7 +8,7 @@ class News {
     List<Article> articles = [];
     var query = 'world news';
     final url = Uri.parse(
-        'https://newsapi.org/v2/everything?q=$query&sortBy=popularity&sortBy=relevancy&apiKey=$kApiKey');
+        'https://newsapi.org/v2/everything?q=$query&sortBy=publishedAt&apiKey=$kApiKey');
     final response = await http.get(url);
 
     var jsonData = jsonDecode(response.body);
